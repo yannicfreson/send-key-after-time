@@ -1,6 +1,10 @@
+// THIS WILL USE YOUR KEYBOARD TO TYPE WHATEVER YOU
+// INPUT AS MESSAGE AT THE THE TIME YOU SET UNLESS
+// YOU CANCEL THE SCRIPT EXECUTION, USE AT YOUR OWN RISK
+
 const ks = require("node-key-sender");
-const h = 3; // hours until
-const m = 15; // minutes until
+const h = 0; // hours until
+const m = 0; // minutes until
 const s = 0; // seconds until
 const msg = ""; // message to send
 
