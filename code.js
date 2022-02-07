@@ -8,7 +8,7 @@ console.log(
 );
 
 setTimeout(() => {
-  ks.sendText("Early Bird 1/7 ;p").then();
+  ks.sendText("Early Bird 2/7 ;p").then();
   setTimeout(() => {
     ks.sendKey("enter");
     setTimeout(() => {
