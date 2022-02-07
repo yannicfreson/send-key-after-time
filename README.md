@@ -1,2 +1,2 @@
 # send-key-after-time
-THIS WILL USE YOUR KEYBOARD TO TYPE WHATEVER YOU INPUT AS MESSAGE AT THE THE TIME YOU SET UNLESS YOU CANCEL THE SCRIPT EXECUTION, USE AT YOUR OWN RISK!
+This will use your keyboard to type whatever you input as message at the the time you set unless you cancel the script execution, use at your own risk!
